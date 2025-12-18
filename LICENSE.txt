@@ -1,0 +1,325 @@
+Here are the comprehensive license texts for all three HVTS solutions:
+
+---
+
+# HVTS Suite License Agreement
+
+**Copyright © 2024 GalaxyChain Technologies Ltd**  
+**Effective Date: January 1, 2024**  
+**Version: 2.0**
+
+## 📋 TABLE OF CONTENTS
+
+1. **[GENERAL TERMS](#-1-general-terms)**  
+2. **[SOFTWARE SPECIFICS](#-2-software-specifics)**  
+3. **[LICENSE GRANTS](#-3-license-grants)**  
+4. **[TOKEN-GATED PREMIUM ACCESS](#-4-token-gated-premium-access)**  
+5. **[RESTRICTIONS](#-5-restrictions)**  
+6. **[INTELLECTUAL PROPERTY](#-6-intellectual-property)**  
+7. **[DISCLAIMERS & LIMITATIONS](#-7-disclaimers--limitations)**  
+8. **[TERMINATION](#-8-termination)**  
+9. **[GOVERNING LAW](#-9-governing-law)**  
+10. **[CONTACT](#-10-contact)**  
+
+---
+
+## 🎯 1. GENERAL TERMS
+
+### 1.1 Parties
+This License Agreement ("Agreement") is between **GalaxyChain Technologies Ltd** ("Licensor", "we", "us") and **you** ("Licensee", "User", "you"), governing your use of the HVTS Suite software products.
+
+### 1.2 Definitions
+- **"Software"**: Collectively refers to HVTS-GRID, HVTS-Futures, and HVTS-AMM
+- **"Free Version"**: Limited functionality edition of each Software
+- **"Premium Features"**: Enhanced functionality requiring token ownership
+- **"AIFUND(HVTS) Token"**: Digital asset on Solana blockchain (Contract: `5dBTZq2deeg79KU13wzp5Zi4t6dxybyD4WV9h7bbpump`)
+- **"Minimum Balance"**: 100,000 AIFUND(HVTS) tokens required for Premium access
+
+### 1.3 Acceptance
+By installing, accessing, or using any HVTS Software, you acknowledge that you have read, understood, and agree to be bound by this Agreement.
+
+---
+
+## 📊 2. SOFTWARE SPECIFICS
+
+### 2.1 HVTS-GRID (Forex)
+- **Type**: Windows desktop application
+- **Market**: Foreign Exchange (Forex)
+- **Integration**: MetaTrader 5 platform
+- **Core Technology**: 5-signal consensus system with multi-strategy execution
+- **Risk Features**: Dynamic hedging, position averaging
+
+### 2.2 HVTS-Futures
+- **Type**: Python-based trading bot
+- **Market**: Cryptocurrency Futures
+- **Exchanges**: Gate.io (primary), expandable architecture
+- **Core Technology**: Quantum-inspired ML + technical analysis hybrid
+- **Features**: Multi-timeframe analysis, confidence scoring
+
+### 2.3 HVTS-AMM
+- **Type**: Python-based trading bot
+- **Market**: Cryptocurrency Spot with AMM capabilities
+- **Exchanges**: Gate.io (primary), multi-exchange support
+- **Strategies**: 7 distinct trading strategies including AMM, DCA, Grid
+- **Features**: Automated market making, pivot zone analysis
+
+### 2.4 Source Code Availability
+Source code is provided **for transparency and security verification only**. This does not constitute an open-source license. All source code remains proprietary property of GalaxyChain Technologies Ltd.
+
+---
+
+## 🔓 3. LICENSE GRANTS
+
+### 3.1 Free Version License
+For each Software, Licensor grants you a:
+- **Non-exclusive, non-transferable, non-sublicensable license**
+- **Personal, non-commercial use only**
+- **Limited to the functionality specified in each Software's documentation**
+- **Subject to the restrictions in Section 5**
+
+### 3.2 Installation Rights
+You may install each Free Version on:
+- A reasonable number of your personal devices
+- For testing, simulation, and educational purposes
+- Subject to individual Software limitations (e.g., symbol limits)
+
+### 3.3 Duration
+Free Version licenses are perpetual but may be terminated per Section 8.
+
+---
+
+## 🪙 4. TOKEN-GATED PREMIUM ACCESS
+
+### 4.1 Conditional Premium License
+Access to Premium Features is granted **automatically and conditionally** upon verification that your connected Solana wallet maintains the Minimum Balance of 100,000 AIFUND(HVTS) tokens.
+
+### 4.2 Verification Mechanism
+- **Real-time Verification**: Software periodically checks wallet balance
+- **Secure Connection**: Uses read-only wallet connection (no private key access)
+- **Transparent Process**: Verification occurs locally in the Software
+
+### 4.3 Dynamic Access
+Premium access is **dynamic and revocable**:
+- **Active**: When balance ≥ 100,000 tokens
+- **Suspended**: When balance < 100,000 tokens
+- **Restored**: When balance returns to ≥ 100,000 tokens
+
+### 4.4 No Token Value Guarantee
+**CRITICAL**: Holding AIFUND(HVTS) tokens:
+- Does not guarantee Software performance
+- Does not protect against trading losses
+- Does not ensure token value appreciation
+- May result in financial loss if token value decreases
+
+### 4.5 Token Independence
+The AIFUND(HVTS) token is a separate digital asset. Its value and performance are independent of the Software. Purchasing tokens for Software access constitutes speculation on the token's value.
+
+---
+
+## 🚫 5. RESTRICTIONS
+
+### 5.1 Prohibited Actions
+You may **NOT**:
+- **Modify, adapt, or create derivative works** of any Software
+- **Reverse engineer, decompile, or disassemble** any Software
+- **Remove, alter, or obscure** copyright, trademark, or patent notices
+- **Use any Software** for illegal activities or unauthorized purposes
+
+### 5.2 Distribution & Commercial Use
+You may **NOT**:
+- **Distribute, sell, lease, or sublicense** any Software
+- **Use any Software** for commercial trading services
+- **Resell access** to Premium Features
+- **Bundle any Software** with other products
+
+### 5.3 Circumvention
+You may **NOT**:
+- Attempt to bypass token verification
+- Use multiple wallets to circumvent Minimum Balance
+- Share Premium access across multiple users
+- Create tools to emulate token ownership
+
+### 5.4 Geographic Restrictions
+Due to regulatory requirements, use may be restricted in certain jurisdictions. You are responsible for compliance with local laws.
+
+---
+
+## 🏛️ 6. INTELLECTUAL PROPERTY
+
+### 6.1 Ownership
+GalaxyChain Technologies Ltd retains **all right, title, and interest** in and to:
+- All Software code, algorithms, and methodologies
+- Documentation, user interfaces, and designs
+- Trademarks, logos, and brand elements
+- Patents, trade secrets, and proprietary information
+
+### 6.2 No Transfer
+This Agreement transfers **no ownership** of intellectual property. You receive only the limited license rights expressly granted.
+
+### 6.3 Feedback
+Any feedback, suggestions, or improvements you provide become the property of GalaxyChain Technologies Ltd and may be used without compensation or attribution.
+
+### 6.4 Third-Party Components
+Software may include third-party components under their respective licenses. You agree to comply with all applicable third-party licenses.
+
+---
+
+## ⚠️ 7. DISCLAIMERS & LIMITATIONS
+
+### 7.1 Trading Risk Disclaimer
+**HIGH RISK ACTIVITY - READ CAREFULLY**
+
+#### 7.1.1 Financial Risk
+- Automated trading involves **substantial risk of loss**
+- You may **lose all or more than** your initial investment
+- Past performance **does not guarantee** future results
+- Market conditions can change **rapidly and unpredictably**
+
+#### 7.1.2 No Investment Advice
+The Software provides **execution tools only**, not:
+- Financial advice
+- Investment recommendations
+- Guarantees of profitability
+- Market predictions
+
+#### 7.1.3 Your Responsibility
+You are **solely responsible** for:
+- Your trading decisions
+- Risk management
+- Capital allocation
+- Monitoring positions
+- Tax obligations
+
+### 7.2 Software "AS IS" Disclaimer
+ALL SOFTWARE IS PROVIDED **"AS IS"** WITHOUT WARRANTY OF ANY KIND:
+- **NO WARRANTY** of merchantability
+- **NO WARRANTY** of fitness for a particular purpose
+- **NO WARRANTY** of accuracy or reliability
+- **NO WARRANTY** of uninterrupted or error-free operation
+- **NO WARRANTY** that defects will be corrected
+
+### 7.3 Cryptocurrency Specific Risks
+For HVTS-Futures and HVTS-AMM:
+
+#### 7.3.1 Market Risks
+- **Extreme volatility** - prices can swing dramatically
+- **Liquidity risk** - markets may become illiquid
+- **Exchange risk** - exchanges may fail, freeze, or be hacked
+- **Regulatory risk** - laws may change suddenly
+
+#### 7.3.2 Technical Risks
+- **Network congestion** - transactions may be delayed
+- **Smart contract risk** - token contracts may have vulnerabilities
+- **Wallet security** - you are responsible for wallet safety
+
+### 7.4 Limitation of Liability
+
+#### 7.4.1 No Consequential Damages
+IN NO EVENT SHALL GALAXYCHAIN TECHNOLOGIES LTD BE LIABLE FOR:
+- Lost profits or revenue
+- Lost data or opportunities
+- Trading losses
+- Indirect, incidental, or consequential damages
+- Damages exceeding USD $100
+
+#### 7.4.2 Force Majeure
+We are not liable for delays or failures due to:
+- Market conditions
+- Exchange outages
+- Network failures
+- Regulatory actions
+- Acts of God
+
+#### 7.4.3 Essential Purpose
+These limitations apply even if any remedy fails of its essential purpose.
+
+---
+
+## 🔚 8. TERMINATION
+
+### 8.1 By You
+You may terminate by:
+- Ceasing all use of the Software
+- Uninstalling all copies
+- Destroying associated materials
+
+### 8.2 By Licensor
+We may terminate immediately if you:
+- Violate any license restriction
+- Attempt to circumvent token verification
+- Use Software for illegal purposes
+- Infringe intellectual property rights
+
+### 8.3 Automatic Termination
+Premium access terminates automatically when:
+- Token balance falls below Minimum Balance
+- Token contract is discontinued
+- Software is discontinued
+
+### 8.4 Effects of Termination
+Upon termination:
+- All license rights cease immediately
+- You must cease all use of Software
+- You must uninstall all copies
+- Premium features are disabled
+- Sections 5-10 survive termination
+
+---
+
+## ⚖️ 9. GOVERNING LAW
+
+### 9.1 Jurisdiction
+This Agreement is governed by the laws of the jurisdiction where GalaxyChain Technologies Ltd is incorporated, without regard to conflict of law principles.
+
+### 9.2 Dispute Resolution
+Any disputes shall be resolved through binding arbitration in accordance with the rules of the jurisdiction's arbitration association.
+
+### 9.3 Class Action Waiver
+You waive any right to participate in class actions or consolidated claims against us.
+
+### 9.4 Severability
+If any provision is found unenforceable, the remaining provisions remain in full effect.
+
+### 9.5 Amendments
+We may amend this Agreement with reasonable notice. Continued use constitutes acceptance of amendments.
+
+### 9.6 Entire Agreement
+This Agreement constitutes the complete agreement between you and GalaxyChain Technologies Ltd regarding the Software.
+
+---
+
+## 📞 10. CONTACT
+
+### 10.1 Official Channels
+- **Website**: [www.aifund.finance](https://www.aifund.finance)
+- **Legal Email**: legal@aifund.finance
+- **Support Email**: support@aifund.finance (Premium users only)
+- **Token Information**: [Pump.fun](https://pump.fun/coin/5dBTZq2deeg79KU13wzp5Zi4t6dxybyD4WV9h7bbpump)
+
+### 10.2 Notices
+Electronic notices to the email address associated with your use are considered sufficient.
+
+### 10.3 Language
+This Agreement is written in English. Any translations are for convenience only.
+
+---
+
+## 📝 ACKNOWLEDGMENT
+
+**BY USING ANY HVTS SOFTWARE, YOU ACKNOWLEDGE THAT:**
+
+1. ✅ You have read and understood this Agreement
+2. ✅ You accept all terms and conditions
+3. ✅ You understand the high risks of automated trading
+4. ✅ You are solely responsible for your trading decisions
+5. ✅ You understand token value may fluctuate independently
+6. ✅ You comply with all applicable laws and regulations
+
+---
+
+**Copyright © 2024 GalaxyChain Technologies Ltd. All rights reserved.**
+
+*This document is proprietary and confidential. Unauthorized reproduction or distribution is prohibited.*
+
+*Last Updated: December 2024*  
+*Version: 2.0*
